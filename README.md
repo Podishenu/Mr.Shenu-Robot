@@ -32,11 +32,6 @@ Mr.Bot  Multi Device is a automated whatsapp bot created by <a href="https://git
 
 <hr>
 
-## DEPLOYMENT METHODS
-
-[CLICK TO SELECT DEPLOY PLATFORM](https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html)
-
-<hr>
 -------
 
 ## ```Connect With Me```
