@@ -42,10 +42,7 @@ Mr.Bot  Multi Device is a automated whatsapp bot created by <a href="https://git
 ## ```Connect With Me```
 <p align="https://chat.whatsapp.com/LIwOVDqKfZw5MzcJImlsfb">
 <a href="(https://wa.me/+94724245543?text=𝙷𝙸_𝙻𝚊𝚜𝚜𝚊𝚗𝚊_𝚕𝚊𝚖𝚊𝚢𝚘_🥺💗✨)">" /><br>
-<a href="https://chat.whatsapp.com/LIwOVDqKfZw5MzcJImlsfb"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://chat.whatsapp.com/LIwOVDqKfZw5MzcJImlsfb" /><br>
-<a href="https://t.me/fenix_programmer"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
-<a href="https://t.me/whatsapp_hacks_tool"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://https://github.com/BotDevilLozan/Godfather"><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://chat.whatsapp.com/LIwOVDqKfZw5MzcJImlsfb"><img src=" ?
 </p>
 
 # Setup For Deployment 👇
