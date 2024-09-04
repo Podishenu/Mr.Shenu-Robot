@@ -1,6 +1,6 @@
  
 
-<h1 align="center">Shenu BOT<br></h1>
+<h1 align="center">Shenu Bot<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/2961329c380d978e01633.jpg" />
 </p>
