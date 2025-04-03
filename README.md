@@ -20,14 +20,7 @@ Mr.Bot  Multi Device is a automated whatsapp bot created by <a href="https://git
 <hr>
 
 
-## DEPLOY BY SESSION ID or creds.json (Qr code)
-
-
-<a href="https://pairing1-9450d1f488c5.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
-
-
-<a href="https://paircode2-2034df265851.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
-
+## 
 <hr>
 
 <hr>
@@ -48,7 +41,7 @@ Mr.Bot  Multi Device is a automated whatsapp bot created by <a href="https://git
 
 - FORK THE REPOSITORY [Here](https://github.com/Podishenu/Mr.Shenu-Robot)
 
-## `Generate Pair Code For Session`
+
 [![master Fenix]([https://img.shields.io/badge/Xeon-Pair%20Code%20Generator-Pink?labelColor=Green&style=plastic&logo=Heroku&logoColor=White](https://firebasestorage.googleapis.com/v0/b/photo-slider-d36e0.appspot.com/o/storage%2F1001823951.jpg?alt=media&token=331e1518-c5f5-4aa3-afbf-92848c7af5d9))](https://replit.com/@2023lastalone/FENIX-PRINTING-COD-FIX-6#main.sh)
 
 ## ` BUILDPACKS`
